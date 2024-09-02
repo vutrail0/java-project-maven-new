@@ -10,6 +10,11 @@
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
 </properties>
+  <plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-war-plugin</artifactId>
+    <version>3.3.1</version>
+</plugin>
 <dependencies>
 <dependency>
 <groupId>com.oracle.bedrock</groupId>
