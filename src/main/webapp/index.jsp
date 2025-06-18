@@ -488,7 +488,6 @@
 
     <script src="./assets/js/data.js"></script>
     <script src="./assets/js/main.js"></script>
-<marque>this is change done by sukumar</marque>
 </body>
 
 </html>
